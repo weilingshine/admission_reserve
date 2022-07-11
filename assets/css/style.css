@@ -371,7 +371,7 @@ ul.navbar-nav {
 }
 
 .great-box{
-	
+
 }
 
 .great-box a {
@@ -414,7 +414,7 @@ ul.navbar-nav {
 }
 
 .great-medium-result h3{
-	color: #051d5d !important;
+    color: #051d5d !important;
     border-bottom: 3px solid #051d5d !important;
 }
 
@@ -423,11 +423,19 @@ ul.navbar-nav {
     margin-bottom: 0px;
 }
 
+.great-medium-result .great-box-center {
+    background: transparent;
+    padding: 0  15px;
+}
+
 .great-medium-result p{
 	color: #051d5d;
+    margin-bottom: 0;
+    margin-top: 10px;
 }
 .great-medium-result p samp{
-	    border-radius: 6px;
+    margin: 0 auto;
+	border-radius: 6px;
     background: #ffd543;
     color: #051d5d;
     font-weight: 900;
